@@ -1,0 +1,14 @@
+var=1
+var2=safu
+var3="Safu islam"
+var4=20.4
+var5=3+3
+
+echo $var
+echo $var2
+echo $var3
+echo $var4
+echo $var5
+
+
+

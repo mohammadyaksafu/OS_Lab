@@ -1,0 +1,4 @@
+ls
+date 
+cal
+echo "This is the last command"
