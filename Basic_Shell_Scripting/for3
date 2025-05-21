@@ -1,0 +1,6 @@
+for x in $(ls)
+do
+	echo $x
+	sleep 1
+done
+

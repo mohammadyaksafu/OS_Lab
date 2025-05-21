@@ -1,0 +1,5 @@
+for x in 12 qwe tyu
+do
+	touch $x
+	echo "file created"
+done
